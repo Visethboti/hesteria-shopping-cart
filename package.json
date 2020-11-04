@@ -1,0 +1,21 @@
+{
+  "name": "hesteria-shopping-cart",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-handlebars": "^3.0.2",
+    "hbs": "^4.1.1",
+    "http-errors": "~1.6.3",
+    "mongoose": "^5.10.11",
+    "morgan": "~1.9.1"
+  },
+  "devDependencies": {
+    "handlebars": "^4.5.0"
+  }
+}
